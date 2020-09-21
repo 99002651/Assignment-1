@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600606765 source:d:\genesis\set2\currency\currency_test.cc
+	"currency.h"
+	<gtest/gtest.h>
+
+1600606782 d:\genesis\set2\currency\currency.h
+
+1600606847 source:d:\genesis\set2\currency\currency.cc
+	"currency.h"
+	<iostream>
+

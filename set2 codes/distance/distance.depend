@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600608612 source:d:\genesis\set2\distance\distance_test.cc
+	"distance.h"
+	<gtest/gtest.h>
+
+1600608910 d:\genesis\set2\distance\distance.h
+

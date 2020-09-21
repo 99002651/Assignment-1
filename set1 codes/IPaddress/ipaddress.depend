@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600621113 source:d:\genesis\set1\ipaddress\ipaddress.cc
+	<string>
+	<iostream>
+	"ipaddress.h"
+
+1600621516 d:\genesis\set1\ipaddress\ipaddress.h
+	<string>
+	<iostream>
+
+1600621792 source:d:\genesis\set1\ipaddress\ipaddress_test.cc
+	"ipaddress.h"
+	<iostream>
+	<gtest/gtest.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600596049 source:d:\genesis\mytime\main.cpp
+	<iostream>
+	"mytime.h"
+
+1600596564 d:\genesis\mytime\mytime.h
+	<iostream>
+
+1600596174 source:d:\genesis\mytime\mytime_test.cc
+	<gtest/gtest.h>
+
+1600596566 source:d:\genesis\mytime\mytime.cc
+	<iostream>
+	"mytime.h"
+
